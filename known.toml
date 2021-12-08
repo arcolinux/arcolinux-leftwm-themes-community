@@ -11,3 +11,10 @@ repository = "https://github.com/PeterDauwe/db-color-dev"
 commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
+
+[[theme]]
+name = "db-scifi"
+repository = "https://github.com/PeterDauwe/db-scifi"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
