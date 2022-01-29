@@ -26,3 +26,9 @@ commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
 
+[[theme]]
+name = "db-comic"
+repository = "https://github.com/PeterDauwe/db-comic"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
