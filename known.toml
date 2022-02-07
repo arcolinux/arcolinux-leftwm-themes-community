@@ -32,3 +32,10 @@ repository = "https://github.com/PeterDauwe/db-comic"
 commit = "*"
 version = "2.3.2"
 leftwm_versions = "*"
+
+[[theme]]
+name = "sb-horror"
+repository = "https://github.com/PeterDauwe/sb-horror"
+commit = "*"
+version = "2.3.2"
+leftwm_versions = "*"
