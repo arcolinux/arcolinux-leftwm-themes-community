@@ -1,39 +1,4 @@
 [[theme]]
-name = "doublebar"
-repository = "https://github.com/PeterDauwe/doublebar/"
-commit = "*"
-version = "2.3.2"
-leftwm_versions = ">=0.3.0"
-
-[[theme]]
-name = "db-color-dev"
-repository = "https://github.com/PeterDauwe/db-color-dev"
-commit = "*"
-version = "2.3.2"
-leftwm_versions = ">=0.3.0"
-
-[[theme]]
-name = "db-scifi"
-repository = "https://github.com/PeterDauwe/db-scifi"
-commit = "*"
-version = "2.3.2"
-leftwm_versions = ">=0.3.0"
-
-[[theme]]
-name = "db-comic"
-repository = "https://github.com/PeterDauwe/db-comic"
-commit = "*"
-version = "2.3.2"
-leftwm_versions = ">=0.3.0"
-
-[[theme]]
-name = "sb-horror"
-repository = "https://github.com/PeterDauwe/sb-horror"
-commit = "*"
-version = "2.3.2"
-leftwm_versions = ">=0.3.0"
-
-[[theme]]
 name = "kittycafe-sm"
 repository = "https://github.com/etrigan63/kittycafe-sm"
 commit = "*"
