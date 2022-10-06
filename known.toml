@@ -20,13 +20,6 @@ version = "2.3.2"
 leftwm_versions = ">=0.3.0"
 
 [[theme]]
-name = "db-labels"
-repository = "https://github.com/PeterDauwe/db-labels"
-commit = "*"
-version = "2.3.2"
-leftwm_versions = ">=0.3.0"
-
-[[theme]]
 name = "db-comic"
 repository = "https://github.com/PeterDauwe/db-comic"
 commit = "*"
